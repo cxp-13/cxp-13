@@ -1,8 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on melon
-- 🌱 I’m currently learning golang
-- 👯 I’m looking to collaborate on hackathon team
-- 📫 How to reach me: lantianlaoli@gmail.com
+You are very welcome to visit my github repository!
 
 ## The Hackathon Experience 🧑‍💻
 BNB Q2  SmartContract developer  
@@ -16,5 +13,8 @@ repo: demianDAO/music-dapp
 ## Employment History 🐮
 Melon SmartContract developer && Go backend developer
 Entertainment social dapp on zksync chain 
+
+## contact
+- 📫 lantianlaoli@gmail.com
 
 
