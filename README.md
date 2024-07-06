@@ -2,17 +2,16 @@
 You are very welcome to visit my github repository!
 
 ## The Hackathon Experience 🧑‍💻
-BNB Q2  --SmartContract developer  
+### BNB Q2  
 Cross-chain NFT trading  
-repo: HappMelon/melon-contract  
+🏆Awards: 7th place
 
-EthStorage's 2nd Campaigne  --Go backend developer  
+### EthStorage's 2nd Campaigne  
 web3 music platform  
-repo: demianDAO/music-dapp  
 
 ## Employment History 🐮
-Melon --SmartContract developer && Go backend developer  
-Entertainment social dapp on zksync chain 
+Melon 
+entertainment socialfi   
 
 ## contact
 - 📫 lantianlaoli@gmail.com
