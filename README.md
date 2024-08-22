@@ -1,6 +1,7 @@
 # Hi there 👋
 A smart contract developer for the evm and solana blockchains.   
 I'm from China nice to meet you, if you are also interested in hackathon or open source projects feel free to email me!!!!  
+📫 lantianlaoli@gmail.com  
 
 # The Hackathon Experience 🧑‍💻
 
@@ -19,8 +20,5 @@ entertainment socialFi
 
 # open source contribution🔮  
 ## Drift Protocol  
-
-## contact
-- 📫 lantianlaoli@gmail.com
 
 
