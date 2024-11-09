@@ -6,7 +6,8 @@ A smart contract developer for the evm and solana blockchains. if you are also i
 - BNB Q2 Cross-chain NFT trading  🏆Awards: honourable mention  
 - EthStorage's 2nd Campaigne web3 music platform  
 ## Employment History 🐮
-- Melon(entertainment socialFi)   
+- Melon(entertainment socialFi)
+- XenoBunny
 ## open source contribution Experience🔮  
 - Drift Protocol  
 - Marginfi
