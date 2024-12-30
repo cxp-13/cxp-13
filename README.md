@@ -4,10 +4,11 @@ A smart contract developer for the evm and solana blockchains. if you are also i
 ## The Hackathon Experience 🧑‍💻
 - BNB Q3 DeFi leverage protocol  
 - BNB Q2 Cross-chain NFT trading  🏆Awards: honourable mention  
-- EthStorage's 2nd Campaigne web3 music platform  
+- EthStorage's 2nd Campaigne web3 music platform
+- Solana AI 
 ## Employment History 🐮
-- Melon(entertainment socialFi)
-- XenoBunny
+- happy melon
+- XenoBunnyX
 ## open source contribution Experience🔮  
 - Drift Protocol  
 - Marginfi
